@@ -1,8 +1,8 @@
-#YOP Homepage
+# YOP Homepage
 
-##Version: 0.2
+## Version: 0.2
 
-###Changelog:
+### Changelog:
 <ol>
 <li>Used SublimePrettify to clean all files.</li>
 <li>Added brand to favicon and banner.</li>
