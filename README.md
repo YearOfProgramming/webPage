@@ -15,7 +15,7 @@
 <li>General HTML Clean-Up</li>
 </ol>
 <br>
-###TO-DO:
+### TO-DO:
 <ul>
 <li>Make Website Accessible</li>
 <li>Rid site of Bootstrap mobile menu button (well-documented bug for the hamburger button's :focus attribute not changing when you selected the menu button after already having it selected) and use this: https://www.adtile.me/fixed-nav/</li>
