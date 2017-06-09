@@ -15,6 +15,7 @@
 <li>General HTML Clean-Up</li>
 </ol>
 <br>
+
 ### TO-DO:
 <ul>
 <li>Make Website Accessible</li>
